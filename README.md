@@ -1,4 +1,4 @@
 OpenStreetMap Operations Issue Tracker
 ======================================
 
-This repository is used by the OpenStreetMap operations and administration team for tracking issues using the issue tracker.
+This repository is used by the OpenStreetMap operations and administration team for tracking issues using the [issue tracker](https://github.com/openstreetmap/operations/issues).
